@@ -1,0 +1,14 @@
+com\stock\mgmt\service\AuthenticationService.class
+com\stock\mgmt\entity\Stock.class
+com\stock\mgmt\service\impl\UserPasswordBasedAuthenticationService.class
+com\stock\mgmt\util\PasswordEncryptionUtil.class
+com\stock\mgmt\entity\PurchaseOrder.class
+com\stock\mgmt\database\DatabaseConnector.class
+com\stock\mgmt\entity\Address.class
+com\stock\mgmt\entity\SalesOrder.class
+com\stock\mgmt\entity\User.class
+com\stock\mgmt\entity\Product.class
+com\stock\mgmt\database\LoginDAO.class
+com\stock\mgmt\controller\LoginController.class
+com\stock\mgmt\controller\RegistrationController.class
+com\stock\mgmt\entity\Customer.class
